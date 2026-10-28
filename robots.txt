@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jason3good.github.io/sitemap.xml
